@@ -1,4 +1,4 @@
----
+Tri.nitrak.98@gmail.com ---
 title: Using GitHub Packages with your project's ecosystem
 shortTitle: Using GitHub Packages with your project's ecosystem
 intro: 'You can configure {% data variables.product.prodname_actions %} or your package client to work with {% data variables.product.prodname_registry %}.'
